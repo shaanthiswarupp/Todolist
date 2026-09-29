@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import "./App.css";
-
+// new comment added
 const App = () => {
 
   const [task, setTask] = useState("");
